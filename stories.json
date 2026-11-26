@@ -61,6 +61,12 @@
           "claim": false,
           "headline": "Brent oil up 0.61% to $91.19 on Houthi supply fears",
           "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "headline": "Musk promises two SpaceX shares for every American child",
+          "deck": "Elon Musk promised two SpaceX shares for every American child.",
+          "source": "Reuters"
         }
       ]
     },
@@ -74,7 +80,7 @@
         },
         {
           "claim": false,
-          "headline": "Flavio Bolsonaro flees Brazil after election loss",
+          "headline": "Flávio Bolsonaro flees Brazil after election loss",
           "source": "WH News"
         },
         {
@@ -126,6 +132,30 @@
           "claim": false,
           "headline": "Russia adopts largest military budget in decades",
           "source": "FT"
+        },
+        {
+          "claim": false,
+          "headline": "Russia hits two grain ships near Odesa ports",
+          "deck": "Russia attacked two foreign cargo ships carrying more than 100,000 tons of grain near Ukraine's Black Sea port of Odesa, Ukraine says.",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "headline": "Kremlin accuses Ukraine of widening war to Mediterranean and Baltic",
+          "deck": "The Kremlin accused Ukraine of trying to spread the war to the Mediterranean and Baltic seas, calling it very dangerous.",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "headline": "Russian court arrests deputy aerospace forces commander",
+          "deck": "A Russian military court arrested deputy aerospace forces commander Yuriy Grekhov, Kommersant reports.",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "headline": "Italy asks Germany to intervene over Henkel factory closure",
+          "deck": "Italy asked Germany to intercede with Henkel and halt plans to shut an Italian plant employing 102 workers.",
+          "source": "Reuters"
         }
       ]
     },
@@ -171,6 +201,18 @@
           "claim": false,
           "headline": "Israeli gates could cut off 70,000 in West Bank, mayor warns",
           "source": "Mayor"
+        },
+        {
+          "claim": false,
+          "headline": "Pakistan, Saudi, Turkey to hold alliance meeting in Islamabad",
+          "deck": "Pakistan, Saudi Arabia and Turkey will hold a meeting on their mutual defence agreement in Islamabad on Nov 27-28, sources say.",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "headline": "Turkish finance minister authorises probe of ex-banking watchdog head",
+          "deck": "Turkey's finance minister authorised prosecutors to investigate former banking watchdog head Sahap Kavcioglu, Anadolu reports.",
+          "source": "Reuters"
         }
       ]
     },
@@ -246,6 +288,18 @@
           "claim": false,
           "headline": "Australia and Solomon Islands sign security treaty",
           "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "US chip curbs threaten Chinese AI model development",
+          "deck": "US chip curbs and a distillation crackdown threaten Chinese AI model development, sources say.",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "headline": "India asks Netflix not to air Pakistani show",
+          "deck": "India's government asked Netflix not to air a Pakistani series in India, local media report.",
+          "source": "Reuters"
         }
       ]
     },
