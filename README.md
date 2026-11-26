@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261126/Luecria/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 [![reward](https://make.fun/badge/news-image-20261126/Luecria/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
-A newspaper front page summarising 26 November 2026 in a single image: 46 stories, 7 regions, with unconfirmed reports labelled CLAIM. The approved image is `entry.png`.
+A newspaper front page summarising 26 November 2026 in a single image: 55 stories, 7 regions, with unconfirmed reports labelled CLAIM. The approved image is `entry.png`.
 
 `main.py` is the program/v1 entry point. It copies `entry.png` to `/output/entry.png`.
 
@@ -21,13 +21,17 @@ python3 main.py     # copy entry.png to /output/entry.png
 
 ## Verify
 
+V2 contains 55 stories, with justified columns and an 11pt story font.
+The existing Latin America headline now uses the accented spelling “Flávio Bolsonaro”; all CLAIM labels are preserved.
+Two renderer runs produced byte-identical `entry.png` files with the expected SHA-256 below.
+
 ```sh
 python3 render.py
 sha256sum entry.png | tee /tmp/news-image-first.sha256
 python3 render.py
 sha256sum entry.png | tee /tmp/news-image-second.sha256
 diff -u /tmp/news-image-first.sha256 /tmp/news-image-second.sha256
-grep -q '^857f5710a786e771b6be714c8d3f3fc898a1f82170100e7c0ae101616ac34db6  entry.png$' /tmp/news-image-second.sha256
+grep -q '^777591ce36978f5c644729f8d3ce8a23e60b923ff131ec67a842a3faf00a0d43  entry.png$' /tmp/news-image-second.sha256
 python3 main.py
 cmp entry.png /output/entry.png
 ```
