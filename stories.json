@@ -1,1 +1,279 @@
-{"date":"26 November 2026","leads":[{"claim":false,"deck":"Country-specific tariffs proposed on 14 economies incl. China, the EU, Japan and India.","headline":"US proposes new tariffs on 14 trading partners","kicker":"TARIFFS · WASHINGTON","source":"OneTurn"},{"claim":true,"deck":"Houthis claim strikes on Ras Tanura refinery and Riyadh; coalition says missiles and drones intercepted, blast hits Sanaa.","headline":"Houthis attack Saudi ports and Ras Tanura refinery","kicker":"SAUDI ARABIA","source":"Houthis / coalition"},{"claim":false,"deck":"Fuel tanker overturned and burst into flames on the ring road; at least 31 dead, about 21 hurt, the health ministry says.","headline":"Fuel tanker fire kills at least 31 on Cairo ring road","kicker":"CAIRO","source":"Egypt health ministry"}],"sections":[{"name":"NORTH AMERICA","stories":[{"claim":false,"headline":"AI stock sell-off pushes Nasdaq near bear market","source":"OneTurn"},{"claim":false,"headline":"US tells citizens to leave Iran as war fears grow","source":"OneTurn"},{"claim":false,"headline":"Jensen Huang returns to Nvidia amid US scrutiny","source":"OneTurn"},{"claim":false,"headline":"FCC approves SpaceX plan for one million satellites","source":"FCC"},{"claim":false,"headline":"Puerto Rico court cancels Luma Energy power contract","source":"AP"},{"claim":false,"headline":"Macy's postpones Thanksgiving parade over severe weather","source":"AP"},{"claim":false,"headline":"Brent oil up 0.61% to $91.19 on Houthi supply fears","source":"Reuters"}]},{"name":"LATIN AMERICA","stories":[{"claim":false,"headline":"Colombian police free 76 supermarket hostages in Cartagena","source":"OneTurn"},{"claim":false,"headline":"Flavio Bolsonaro flees Brazil after election loss","source":"WH News"},{"claim":false,"headline":"Lula won't invite Milei to inauguration in diplomatic row","source":"Ground News"},{"claim":false,"headline":"Argentina's left stages 'March of Anger' over Milei austerity","source":"Al Jazeera"}]},{"name":"EUROPE","stories":[{"claim":false,"headline":"EU leaders clash over 45bn euro Ukraine loan and budget","source":"Daily Summary"},{"claim":false,"headline":"Ukraine strikes Russian airbase, damages five jets","source":"OneTurn"},{"claim":true,"headline":"Leaked data show Russia lost nearly 500,000 troops","source":"Leaked data"},{"claim":false,"headline":"Spain heads to snap vote Sunday with right favoured","source":"OneTurn"},{"claim":false,"headline":"New UK-EU treaty has 10-year termination clause","source":"BBC"},{"claim":false,"headline":"Poland asks NATO to down Russian missiles over Ukraine","source":"Bloomberg"},{"claim":false,"headline":"Russia adopts largest military budget in decades","source":"FT"}]},{"name":"MIDDLE EAST","stories":[{"claim":false,"headline":"Coalition intercepts Houthi missiles; blast hits Sanaa","source":"Daily Summary"},{"claim":false,"headline":"Israeli strikes in Gaza kill Hamas security chief","source":"OneTurn"},{"claim":true,"headline":"Cargo ship catches fire after hitting mine in Hormuz","source":"Iran naval forces"},{"claim":false,"headline":"Iran strikes US targets in Bahrain; US retaliates","source":"Atlantic Strategist"},{"claim":false,"headline":"ISIL suicide attack kills two in Hasakah, Syria","source":"Daily Summary"},{"claim":false,"headline":"Libya publishes sea boundary deal with Turkiye","source":"Official gazette"},{"claim":false,"headline":"Pakistan, Saudi, Turkiye to run joint defence pact","source":"Atlantic Strategist"},{"claim":false,"headline":"Israeli gates could cut off 70,000 in West Bank, mayor warns","source":"Mayor"}]},{"name":"AFRICA","stories":[{"claim":false,"headline":"DR Congo demands answers over Ugandan general's threats","source":"BBC"},{"claim":false,"headline":"Zambia bans protest against term-limit removal push","source":"Daily Summary"},{"claim":false,"headline":"Thirteen dead as mine disaster exposes illegal gold hunt","source":"BBC"},{"claim":false,"headline":"African insurgents take war to skies with commercial drones","source":"Reports"}]},{"name":"ASIA-PACIFIC","stories":[{"claim":false,"headline":"First Pakistani astronaut reaches China's space station","source":"OneTurn"},{"claim":false,"headline":"Kim vows more nuclear weapons, wider tactical deployment","source":"KCNA"},{"claim":false,"headline":"Rescuers race to find 13 miners in flooded Indonesian mine","source":"Daily Summary"},{"claim":false,"headline":"Huawei found guilty of stealing US trade secrets","source":"OneTurn"},{"claim":false,"headline":"Bank of Korea raises rate to 3.25%","source":"BOK"},{"claim":false,"headline":"North Korea expels Swiss diplomat in sanctions row","source":"BBC"},{"claim":false,"headline":"Hong Kong renovation blaze killed 168","source":"BBC"},{"claim":false,"headline":"Hasina vows return despite death sentence; press crackdown","source":"Atlantic Strategist"},{"claim":false,"headline":"Australia and Solomon Islands sign security treaty","source":"OneTurn"}]},{"name":"WORLD","stories":[{"claim":false,"headline":"Jennifer Barreto wins Miss Universe 2026","source":"OneTurn"},{"claim":false,"headline":"Liverpool beat Club Brugge 3-0 in Champions League","source":"OneTurn"},{"claim":false,"headline":"Duran Duran guitarist Andy Taylor dies aged 65","source":"BBC"},{"claim":false,"headline":"German boat dealer 'supplied Channel smuggling gangs'","source":"BBC"}]}],"title":"THE WORLD"}
+{
+  "date": "26 November 2026",
+  "leads": [
+    {
+      "claim": false,
+      "deck": "Country-specific tariffs proposed on 14 economies incl. China, the EU, Japan and India.",
+      "headline": "US proposes new tariffs on 14 trading partners",
+      "kicker": "TARIFFS · WASHINGTON",
+      "source": "OneTurn"
+    },
+    {
+      "claim": true,
+      "deck": "Houthis claim strikes on Ras Tanura refinery and Riyadh; coalition says missiles and drones intercepted, blast hits Sanaa.",
+      "headline": "Houthis attack Saudi ports and Ras Tanura refinery",
+      "kicker": "SAUDI ARABIA",
+      "source": "Houthis / coalition"
+    },
+    {
+      "claim": false,
+      "deck": "Fuel tanker overturned and burst into flames on the ring road; at least 31 dead, about 21 hurt, the health ministry says.",
+      "headline": "Fuel tanker fire kills at least 31 on Cairo ring road",
+      "kicker": "CAIRO",
+      "source": "Egypt health ministry"
+    }
+  ],
+  "sections": [
+    {
+      "name": "NORTH AMERICA",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "AI stock sell-off pushes Nasdaq near bear market",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "US tells citizens to leave Iran as war fears grow",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "Jensen Huang returns to Nvidia amid US scrutiny",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "FCC approves SpaceX plan for one million satellites",
+          "source": "FCC"
+        },
+        {
+          "claim": false,
+          "headline": "Puerto Rico court cancels Luma Energy power contract",
+          "source": "AP"
+        },
+        {
+          "claim": false,
+          "headline": "Macy's postpones Thanksgiving parade over severe weather",
+          "source": "AP"
+        },
+        {
+          "claim": false,
+          "headline": "Brent oil up 0.61% to $91.19 on Houthi supply fears",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "name": "LATIN AMERICA",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "Colombian police free 76 supermarket hostages in Cartagena",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "Flavio Bolsonaro flees Brazil after election loss",
+          "source": "WH News"
+        },
+        {
+          "claim": false,
+          "headline": "Lula won't invite Milei to inauguration in diplomatic row",
+          "source": "Ground News"
+        },
+        {
+          "claim": false,
+          "headline": "Argentina's left stages 'March of Anger' over Milei austerity",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "name": "EUROPE",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "EU leaders clash over 45bn euro Ukraine loan and budget",
+          "source": "Daily Summary"
+        },
+        {
+          "claim": false,
+          "headline": "Ukraine strikes Russian airbase, damages five jets",
+          "source": "OneTurn"
+        },
+        {
+          "claim": true,
+          "headline": "Leaked data show Russia lost nearly 500,000 troops",
+          "source": "Leaked data"
+        },
+        {
+          "claim": false,
+          "headline": "Spain heads to snap vote Sunday with right favoured",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "New UK-EU treaty has 10-year termination clause",
+          "source": "BBC"
+        },
+        {
+          "claim": false,
+          "headline": "Poland asks NATO to down Russian missiles over Ukraine",
+          "source": "Bloomberg"
+        },
+        {
+          "claim": false,
+          "headline": "Russia adopts largest military budget in decades",
+          "source": "FT"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLE EAST",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "Coalition intercepts Houthi missiles; blast hits Sanaa",
+          "source": "Daily Summary"
+        },
+        {
+          "claim": false,
+          "headline": "Israeli strikes in Gaza kill Hamas security chief",
+          "source": "OneTurn"
+        },
+        {
+          "claim": true,
+          "headline": "Cargo ship catches fire after hitting mine in Hormuz",
+          "source": "Iran naval forces"
+        },
+        {
+          "claim": false,
+          "headline": "Iran strikes US targets in Bahrain; US retaliates",
+          "source": "Atlantic Strategist"
+        },
+        {
+          "claim": false,
+          "headline": "ISIL suicide attack kills two in Hasakah, Syria",
+          "source": "Daily Summary"
+        },
+        {
+          "claim": false,
+          "headline": "Libya publishes sea boundary deal with Turkiye",
+          "source": "Official gazette"
+        },
+        {
+          "claim": false,
+          "headline": "Pakistan, Saudi, Turkiye to run joint defence pact",
+          "source": "Atlantic Strategist"
+        },
+        {
+          "claim": false,
+          "headline": "Israeli gates could cut off 70,000 in West Bank, mayor warns",
+          "source": "Mayor"
+        }
+      ]
+    },
+    {
+      "name": "AFRICA",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "DR Congo demands answers over Ugandan general's threats",
+          "source": "BBC"
+        },
+        {
+          "claim": false,
+          "headline": "Zambia bans protest against term-limit removal push",
+          "source": "Daily Summary"
+        },
+        {
+          "claim": false,
+          "headline": "Thirteen dead as mine disaster exposes illegal gold hunt",
+          "source": "BBC"
+        },
+        {
+          "claim": false,
+          "headline": "African insurgents take war to skies with commercial drones",
+          "source": "Reports"
+        }
+      ]
+    },
+    {
+      "name": "ASIA-PACIFIC",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "First Pakistani astronaut reaches China's space station",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "Kim vows more nuclear weapons, wider tactical deployment",
+          "source": "KCNA"
+        },
+        {
+          "claim": false,
+          "headline": "Rescuers race to find 13 miners in flooded Indonesian mine",
+          "source": "Daily Summary"
+        },
+        {
+          "claim": false,
+          "headline": "Huawei found guilty of stealing US trade secrets",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "Bank of Korea raises rate to 3.25%",
+          "source": "BOK"
+        },
+        {
+          "claim": false,
+          "headline": "North Korea expels Swiss diplomat in sanctions row",
+          "source": "BBC"
+        },
+        {
+          "claim": false,
+          "headline": "Hong Kong renovation blaze killed 168",
+          "source": "BBC"
+        },
+        {
+          "claim": false,
+          "headline": "Hasina vows return despite death sentence; press crackdown",
+          "source": "Atlantic Strategist"
+        },
+        {
+          "claim": false,
+          "headline": "Australia and Solomon Islands sign security treaty",
+          "source": "OneTurn"
+        }
+      ]
+    },
+    {
+      "name": "WORLD",
+      "stories": [
+        {
+          "claim": false,
+          "headline": "Jennifer Barreto wins Miss Universe 2026",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "Liverpool beat Club Brugge 3-0 in Champions League",
+          "source": "OneTurn"
+        },
+        {
+          "claim": false,
+          "headline": "Duran Duran guitarist Andy Taylor dies aged 65",
+          "source": "BBC"
+        },
+        {
+          "claim": false,
+          "headline": "German boat dealer 'supplied Channel smuggling gangs'",
+          "source": "BBC"
+        }
+      ]
+    }
+  ],
+  "title": "THE WORLD"
+}
